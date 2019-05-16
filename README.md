@@ -4,6 +4,7 @@
 
 * Список NFZ от DJI: <https://www.dji.com/uk/flysafe/geo-map>
 * Страховка для дронов: <https://www.fpvuk.org>
+* Англоязычный ресурс с правилами полётов: <https://uavcoach.com/>
 
 # Венгрия
 
