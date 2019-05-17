@@ -5,12 +5,6 @@
 * TOC
 {:toc}
 
-# Полезные ссылки
-
-* Список NFZ от DJI: <https://www.dji.com/uk/flysafe/geo-map>
-* Страховка для дронов: <https://www.fpvuk.org>
-* Англоязычный ресурс с правилами полётов: <https://uavcoach.com/>
-
 # Венгрия
 
 1. Для полётов требуется подать заявление не менее чем за 30 дней до полёта. Пример заявления: <http://www.nkh.gov.hu/documents/11106/0/NOTIFICATION+FORM+OF+THE+OPERATION+WITH+REMOTELY+PILOTED+AIRCRAFT+SYSTEM.pdf>. Подача по электронной почте [rpas@nfm.gov.hu](mailto:rpas@nfm.gov.hu)
@@ -66,3 +60,9 @@
 1. Максимальная высота 400 футов (121 метр)
 2. Полёты в национальных парках запрещены, штрафы очень высокие.
 
+
+# Полезные ссылки
+
+* Список NFZ от DJI: <https://www.dji.com/uk/flysafe/geo-map>
+* Страховка для дронов: <https://www.fpvuk.org>
+* Англоязычный ресурс с правилами полётов: <https://uavcoach.com/>
