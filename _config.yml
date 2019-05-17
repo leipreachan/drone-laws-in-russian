@@ -1,3 +1,5 @@
 theme: minima
 permalink: pretty
 markdown: kramdown
+kramdown:
+  toc_levels: "2,3"
