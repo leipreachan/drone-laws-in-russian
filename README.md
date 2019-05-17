@@ -2,6 +2,9 @@
 
 Сборник информации "из первых рук" о правилах полётов на дронах в разных странах. Если вы заметили неточность или ошибку в этих данных, [заведите багу](https://github.com/leipreachan/drone-rules-in-russian/issues) или оформите [pull request](https://github.com/leipreachan/drone-rules-in-russian/pulls). Принимаются правки и дополнения!
 
+* TOC
+{:toc}
+
 # Полезные ссылки
 
 * Список NFZ от DJI: <https://www.dji.com/uk/flysafe/geo-map>
