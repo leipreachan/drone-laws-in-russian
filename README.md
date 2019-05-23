@@ -71,6 +71,9 @@
 
 Правила полётов в Латвии: <http://www.caa.lv/en/civil-aviation/about-caa/what-s-new/pilot-the-drones-safely-and-legally.html> и <http://www.caa.lv/upload/userfiles/files/buklets-lv-v1_83(1).pdf>
 
+# Турция
+
+Для ввоза дронов не гражданам Турции требуется **обязательная регистрация**: <https://iha.shgm.gov.tr/public/formlar>. Общий список правил заботливо предоставлен правительством на турецком языке: <http://web.shgm.gov.tr/doc5/sht-iha.pdf>
 
 # Франция
 
