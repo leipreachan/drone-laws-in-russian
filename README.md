@@ -1,6 +1,8 @@
-<https://drones.me2.ru/>
+<https://drones.me2.ru/> - сборник информации "из первых рук" о правилах полётов на дронах в разных странах. 
 
-Сборник информации "из первых рук" о правилах полётов на дронах в разных странах. Если вы заметили неточность или ошибку в этих данных, [заведите багу](https://github.com/leipreachan/drone-rules-in-russian/issues) или оформите [pull request](https://github.com/leipreachan/drone-rules-in-russian/pulls). Принимаются правки и дополнения!
+Автор не несёт ответственности за неточности, но старается их фиксировать и исправлять как можно быстрее.
+
+Если вы заметили неточность или ошибку в сведениях, [заведите багу](https://github.com/leipreachan/drone-rules-in-russian/issues) или оформите [pull request](https://github.com/leipreachan/drone-rules-in-russian/pulls) или [прокомментируйте через виджет Telegrama](https://drones.me2.ru/#комментарии) в самом низу этой страницы.
 
 * TOC
 {:toc}
