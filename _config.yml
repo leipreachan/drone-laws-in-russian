@@ -1,5 +1,15 @@
 theme: minima
 permalink: pretty
+gems:
+  - jekyll-seo-tag
+title: Дроны и законы
+description: Сборник информации 'из первых рук' о правилах полётов на дронах в разных странах
+logo: https://drones.me2.ru/drones.jpg  
+url: https://drones.me2.ru/
+lang: ru
+twitter:
+  username: leipreachan
+  card: summary    
 markdown: kramdown
 kramdown:
   transliterated_header_ids: true
