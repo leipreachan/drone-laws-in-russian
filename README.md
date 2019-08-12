@@ -1,4 +1,3 @@
-<script async src="https://comments.app/js/widget.js?2" data-comments-app-website="vEm5bm4u" data-limit="5"></script>
 <https://drones.me2.ru/>
 
 Сборник информации "из первых рук" о правилах полётов на дронах в разных странах. Если вы заметили неточность или ошибку в этих данных, [заведите багу](https://github.com/leipreachan/drone-rules-in-russian/issues) или оформите [pull request](https://github.com/leipreachan/drone-rules-in-russian/pulls). Принимаются правки и дополнения!
@@ -167,3 +166,6 @@
 * Список NFZ от DJI: <https://www.dji.com/uk/flysafe/geo-map>
 * Страховка для дронов: <https://www.fpvuk.org>
 * Англоязычный ресурс с правилами полётов: <https://uavcoach.com/>
+
+# Комментарии
+<script async src="https://comments.app/js/widget.js?2" data-comments-app-website="vEm5bm4u" data-limit="5"></script>
