@@ -1,16 +1,3 @@
-    <meta property="og:title" content="Дроны и законы" />
-    <meta property="og:url" content="https://drones.me2.ru/" />
-    <meta property="og:description" content="Сборник информации 'из первых рук' о правилах полётов на дронах в разных странах" />
-    <meta property="og:image" content="https://drones.me2.ru/drones.jpg" />
-    <meta property="og:type" content="website" />
-    
-    <meta property="twitter:site" content="@leipreachan">
-    <meta property="twitter:domain" content="https://drones.me2.ru/">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta property="twitter:title" content="Дроны и законы" />
-    <meta property="twitter:description" content="Сборник информации 'из первых рук' о правилах полётов на дронах в разных странах" />
-    <meta name="twitter:image" content="https://drones.me2.ru/drones.jpg">
-    
 <https://drones.me2.ru/> - сборник информации "из первых рук" о правилах полётов на дронах в разных странах. 
 
 Автор не несёт ответственности за неточности, но старается их фиксировать и исправлять как можно быстрее.
