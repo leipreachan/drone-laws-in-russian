@@ -40,4 +40,4 @@
 
 Качаем KML файл и подгружаем его в Google Earth Pro. Включаем отображение нужных нам зон
 
-![Google Earth](/images/ge_main.png)
+![Google Earth](images/ge_main.png)
