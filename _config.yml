@@ -8,8 +8,13 @@ image: /drones.jpg
 logo: /drones.jpg  
 url: https://drones.me2.ru
 lang: ru
+facebook:
+  description: Сборник информации "из первых рук" о правилах полётов на дронах в разных странах
+  image: /drones.jpg  
 twitter:  
-  card: summary    
+  image: /drones.jpg  
+  card: summary   
+  description: Сборник информации "из первых рук" о правилах полётов на дронах в разных странах
 markdown: kramdown
 kramdown:
   transliterated_header_ids: true
