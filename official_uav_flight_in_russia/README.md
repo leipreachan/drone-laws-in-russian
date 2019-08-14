@@ -192,4 +192,6 @@
 Всё. 
 
 
-_Спасибо @k4m454k за подробное описание!_
+_Спасибо [@k4m454k](https://github.com/k4m454k) за подробное описание!_
+
+<script async src="https://comments.app/js/widget.js?2" data-comments-app-website="vEm5bm4u" data-limit="5"></script>
