@@ -2,7 +2,7 @@
 
 Автор не несёт ответственности за неточности, но старается их фиксировать и исправлять как можно быстрее.
 
-Если вы заметили неточность или ошибку в сведениях, [заведите багу](https://github.com/leipreachan/drone-rules-in-russian/issues) или оформите [pull request](https://github.com/leipreachan/drone-rules-in-russian/pulls) или [прокомментируйте через виджет Telegrama](https://drones.me2.ru/#комментарии) в самом низу этой страницы.
+Если вы заметили неточность или ошибку в сведениях, [заведите багу](https://github.com/leipreachan/drone-rules-in-russian/issues) или оформите [pull request](https://github.com/leipreachan/drone-rules-in-russian/pulls) или [прокомментируйте через виджет Telegram](https://drones.me2.ru/#комментарии) в самом низу этой страницы.
 
 * TOC
 {:toc}
