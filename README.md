@@ -213,6 +213,16 @@
 
 <http://www.developpement-durable.gouv.fr/quelle-place-drones-dans-ciel-francais>
 
+# Хорватия
+
+Для официально разрешённого полёта вам нужно скачать и установить официально приложение из [Google Store](https://play.google.com/store/apps/details?id=com.omniaspect.AmcMobileXF) или [AppStore](https://itunes.apple.com/us/app/amc-portal-mobile/id1437249560?mt=8), потом пройти процедуру регистрации, потом получить разрешение. Всё вместе это занимает примерно 5-10 минут. 
+
+Подробная инструкция доступна тут: <http://www.crocontrol.hr/default.aspx?id=3894>
+
+### NFZ в Хорватии
+
+<http://www.crocontrol.hr/default.aspx?id=156>
+
 
 # Эстония 🇪🇪
 
